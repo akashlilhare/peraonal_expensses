@@ -1,4 +1,4 @@
-# peraonalexpensses
+# peraonal_expensses_tracker
 
 A new Flutter application.
 
